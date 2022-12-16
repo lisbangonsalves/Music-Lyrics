@@ -10,7 +10,7 @@ Install my-project with Flutter
   cd Music-Lyrics
   flutter run
 ```
-[![download](Download)]([https://www.linkedin.com/in/lisbangonsalves/](https://github.com/lisbangonsalves/Music-Lyrics/blob/main/build/app/outputs/flutter-apk/app-release.apk))
+
 
 
  ## 🔗 Social
