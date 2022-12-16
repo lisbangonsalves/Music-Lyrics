@@ -9,10 +9,10 @@ class BookmarkView extends StatefulWidget {
 }
 
 class _BookmarkViewState extends State<BookmarkView> {
-  late List<String> trackIdList;
-  late List<String> trackNameList;
-  late List<String> trackAlbumList;
-  late List<String> trackArtistList;
+  List<String> trackIdList = [];
+  List<String> trackNameList = [];
+  List<String> trackAlbumList = [];
+  List<String> trackArtistList = [];
   @override
   void initState() {
     super.initState();
